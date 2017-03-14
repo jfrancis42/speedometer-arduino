@@ -1,7 +1,6 @@
 # speedometer
 
-![Arduino Speedometer]
-(http://bob.gritch.org/misc/speedometer.jpg)
+![Arduino Speedometer](http://bob.gritch.org/misc/speedometer.jpg)
 
 This is an arduino sketch that acts as a really dumb speedometer (and other GPS features). The basic bits of the solution are an Arduino board (most any board is adequate), a 4800bps NMEA-0183 GPS module (pretty much any GPS module available for the Arduino), and two TM1638 LED driver boards (mine have eight 7-segment displays, eight red/green LEDs, and eight pushbutton switches). Why LEDs instead of a multi-line LCD display? Because they look cool. No good reason. I just like them.
 
